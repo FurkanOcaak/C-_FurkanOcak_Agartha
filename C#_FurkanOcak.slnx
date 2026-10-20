@@ -5,4 +5,5 @@
   <Project Path="IlkDeneme/Karsılatırmalar.csproj" Id="867556da-b3b6-4b73-8272-35dc8d0e6430" />
   <Project Path="Matematik/Matematik.csproj" Id="95a7f868-849b-4639-a699-91583f2bde22" />
   <Project Path="Metotlar/Metotlar.csproj" Id="088e3178-dd9e-4a0a-8b67-b25c044de13e" />
+  <Project Path="OOP1/OOP1.csproj" Id="11f242bc-3b52-4398-b6ac-e87bdb9b360f" />
 </Solution>
