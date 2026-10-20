@@ -12,6 +12,7 @@ namespace Metotlar
         public string Adi { get; set; }
         public double Fiyati { get; set; }
         public string Aciklama { get; set; }
-        public int StockCount { get; set; } 
+        public int StockCount { get; set; }
+        public int ArzTalep { get; set; }
     }
 }
