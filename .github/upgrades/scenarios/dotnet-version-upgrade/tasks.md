@@ -1,14 +1,15 @@
-**Progress**: 1/4 tasks complete <progress value="25" max="100"></progress> 25%
+**Progress**: 2/5 tasks complete <progress value="40" max="100"></progress> 40%
 **Status**: Not Started
-**Status**: In Progress - Task 01-prerequisites
+**Status**: In Progress - Task 02-sdk-style-conversion
+**Status**: In Progress - Task 02-sdk-style-conversion
 
-**Progress**: 0/4 tasks complete <progress value="0" max="100"></progress> 0%
-- ✅ 01-prerequisites: Verify .NET 10 upgrade prerequisites ([Content](tasks/01-prerequisites/task.md), [Progress](tasks/01-prerequisites/progress-details.md))
-- 🔄 01-prerequisites: Verify .NET 10 upgrade prerequisites ([Content](tasks/01-prerequisites/task.md), [Progress](tasks/01-prerequisites/progress-details.md))
+## Tasks
 
-- ❌ 01-prerequisites: Verify .NET 10 upgrade prerequisites ([Content](tasks/01-prerequisites/task.md), [Progress](tasks/01-prerequisites/progress-details.md))
-- 🔄 01-prerequisites: Verify .NET 10 upgrade prerequisites ([Content](tasks/01-prerequisites/task.md))
-- 🔲 01-prerequisites: Verify .NET 10 upgrade prerequisites
-- 🔲 02-sdk-style-conversion: Convert legacy projects to SDK-style
-- 🔲 03-console-projects: Upgrade all projects to .NET 10
-- 🔲 04-solution-validation: Validate the upgraded solution
+  - ✅ 02.01-first-project-batch: Convert first three independent console projects ([Content](tasks/02.01-first-project-batch/task.md), [Progress](tasks/02.01-first-project-batch/progress-details.md))
+  - 🔄 02.01-first-project-batch: Convert first three independent console projects ([Content](tasks/02.01-first-project-batch/task.md))
+  - 🔲 02.01-first-project-batch: Convert first three independent console projects
+  - 🔲 02.02-second-project-batch: Convert remaining three independent console projects
+- 🔲 03-console-projects: Upgrade all projects to .NET 10 ([Content](tasks/03-console-projects/task.md))
+- 🔲 04-solution-validation: Validate the upgraded solution ([Content](tasks/04-solution-validation/task.md))
+
+**Legend**: ✅ Complete | 🔄 In Progress | 🔲 Pending | ⚠️ Blocked | ❌ Failed
