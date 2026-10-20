@@ -1,0 +1,442 @@
+{
+  "settings": {
+    "components": {
+      "code": true,
+      "binaries": false
+    },
+    "targetId": "net10.0",
+    "targetDisplayName": ".NETCoreApp,Version=v10.0"
+  },
+  "analysisStartTime": "2026-10-20T11:25:21.3887162Z",
+  "analysisEndTime": "2026-10-20T11:25:22.0157047Z",
+  "privacyModeHelpUrl": "https://go.microsoft.com/fwlink/?linkid=2270980",
+  "stats": {
+    "summary": {
+      "projects": 6,
+      "issues": 2,
+      "incidents": 12,
+      "effort": 12
+    },
+    "charts": {
+      "severity": {
+        "Mandatory": 12,
+        "Optional": 0,
+        "Potential": 0,
+        "Information": 0
+      },
+      "category": {
+        "Project": 12
+      }
+    }
+  },
+  "projects": [
+    {
+      "path": "ClassIntro\\ClassIntro.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "properties": {
+        "appName": "ClassIntro",
+        "projectKind": "ClassicDotNetApp",
+        "frameworks": [
+          "net472"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": false,
+        "isTestProject": false,
+        "numberOfFiles": 2,
+        "numberOfCodeFiles": 2,
+        "linesTotal": 85,
+        "linesOfCode": 85,
+        "totalApiScanned": 36,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "4ad9fbc5-ac8b-4c72-86d3-4d05a1112fa2",
+          "ruleId": "Project.0001",
+          "projectPath": "ClassIntro\\ClassIntro.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "ClassIntro\\ClassIntro.csproj"
+          }
+        },
+        {
+          "incidentId": "ccee07aa-c708-4703-a712-f1e1e272a72f",
+          "ruleId": "Project.0002",
+          "projectPath": "ClassIntro\\ClassIntro.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+              "protected": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0"
+            },
+            "kind": "File",
+            "path": "ClassIntro\\ClassIntro.csproj",
+            "snippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "protectedSnippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "properties": {
+              "CurrentTargetFramework": ".NETFramework,Version=v4.7.2",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    },
+    {
+      "path": "DegerVeReferansTiplerr\\DegerVeReferansTiplerr.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "properties": {
+        "appName": "DegerVeReferansTiplerr",
+        "projectKind": "ClassicDotNetApp",
+        "frameworks": [
+          "net472"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": false,
+        "isTestProject": false,
+        "numberOfFiles": 2,
+        "numberOfCodeFiles": 2,
+        "linesTotal": 62,
+        "linesOfCode": 62,
+        "totalApiScanned": 8,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "326d8691-9aad-40d7-9bce-16da44b32896",
+          "ruleId": "Project.0001",
+          "projectPath": "DegerVeReferansTiplerr\\DegerVeReferansTiplerr.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "DegerVeReferansTiplerr\\DegerVeReferansTiplerr.csproj"
+          }
+        },
+        {
+          "incidentId": "2e3d9a1b-cac9-4a78-ac8b-d69e58305d33",
+          "ruleId": "Project.0002",
+          "projectPath": "DegerVeReferansTiplerr\\DegerVeReferansTiplerr.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+              "protected": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0"
+            },
+            "kind": "File",
+            "path": "DegerVeReferansTiplerr\\DegerVeReferansTiplerr.csproj",
+            "snippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "protectedSnippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "properties": {
+              "CurrentTargetFramework": ".NETFramework,Version=v4.7.2",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    },
+    {
+      "path": "Donguler\\Donguler.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "properties": {
+        "appName": "Donguler",
+        "projectKind": "ClassicDotNetApp",
+        "frameworks": [
+          "net472"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": false,
+        "isTestProject": false,
+        "numberOfFiles": 2,
+        "numberOfCodeFiles": 2,
+        "linesTotal": 65,
+        "linesOfCode": 65,
+        "totalApiScanned": 16,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "f2194484-d503-498f-94a8-630318a7e091",
+          "ruleId": "Project.0001",
+          "projectPath": "Donguler\\Donguler.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "Donguler\\Donguler.csproj"
+          }
+        },
+        {
+          "incidentId": "5b68c593-a600-4fd0-b07c-a4575ae87fa2",
+          "ruleId": "Project.0002",
+          "projectPath": "Donguler\\Donguler.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+              "protected": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0"
+            },
+            "kind": "File",
+            "path": "Donguler\\Donguler.csproj",
+            "snippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "protectedSnippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "properties": {
+              "CurrentTargetFramework": ".NETFramework,Version=v4.7.2",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    },
+    {
+      "path": "IlkDeneme\\Kars\u0131lat\u0131rmalar.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "properties": {
+        "appName": "Kars\u0131lat\u0131rmalar",
+        "projectKind": "ClassicDotNetApp",
+        "frameworks": [
+          "net472"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": false,
+        "isTestProject": false,
+        "numberOfFiles": 2,
+        "numberOfCodeFiles": 2,
+        "linesTotal": 81,
+        "linesOfCode": 81,
+        "totalApiScanned": 22,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "88cf409c-713a-4897-8ddc-aad9e51a9e36",
+          "ruleId": "Project.0001",
+          "projectPath": "IlkDeneme\\Kars\u0131lat\u0131rmalar.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "IlkDeneme\\Kars\u0131lat\u0131rmalar.csproj"
+          }
+        },
+        {
+          "incidentId": "8ea63209-d279-4f54-bf2a-f39c57c7bb51",
+          "ruleId": "Project.0002",
+          "projectPath": "IlkDeneme\\Kars\u0131lat\u0131rmalar.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+              "protected": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0"
+            },
+            "kind": "File",
+            "path": "IlkDeneme\\Kars\u0131lat\u0131rmalar.csproj",
+            "snippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "protectedSnippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "properties": {
+              "CurrentTargetFramework": ".NETFramework,Version=v4.7.2",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    },
+    {
+      "path": "Matematik\\Matematik.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "properties": {
+        "appName": "Matematik",
+        "projectKind": "ClassicDotNetApp",
+        "frameworks": [
+          "net472"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": false,
+        "isTestProject": false,
+        "numberOfFiles": 3,
+        "numberOfCodeFiles": 3,
+        "linesTotal": 70,
+        "linesOfCode": 70,
+        "totalApiScanned": 10,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "ad677c57-2bc9-4190-93a0-bc699a7c1458",
+          "ruleId": "Project.0001",
+          "projectPath": "Matematik\\Matematik.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "Matematik\\Matematik.csproj"
+          }
+        },
+        {
+          "incidentId": "3432fdf8-d35e-47af-b239-5d4474ddcc2e",
+          "ruleId": "Project.0002",
+          "projectPath": "Matematik\\Matematik.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+              "protected": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0"
+            },
+            "kind": "File",
+            "path": "Matematik\\Matematik.csproj",
+            "snippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "protectedSnippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "properties": {
+              "CurrentTargetFramework": ".NETFramework,Version=v4.7.2",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    },
+    {
+      "path": "Metotlar\\Metotlar.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "properties": {
+        "appName": "Metotlar",
+        "projectKind": "ClassicDotNetApp",
+        "frameworks": [
+          "net472"
+        ],
+        "languages": [
+          "C#"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "isSdkStyle": false,
+        "isTestProject": false,
+        "numberOfFiles": 4,
+        "numberOfCodeFiles": 4,
+        "linesTotal": 126,
+        "linesOfCode": 126,
+        "totalApiScanned": 67,
+        "minLinesOfCodeToChange": 0,
+        "maxLinesOfCodeToChange": 0
+      },
+      "ruleInstances": [
+        {
+          "incidentId": "40fc41dd-d707-49d6-9e12-8fff05e6c6fa",
+          "ruleId": "Project.0001",
+          "projectPath": "Metotlar\\Metotlar.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "Metotlar\\Metotlar.csproj"
+          }
+        },
+        {
+          "incidentId": "387150e8-8d3e-471a-9ce5-6417f0dd7a99",
+          "ruleId": "Project.0002",
+          "projectPath": "Metotlar\\Metotlar.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+              "protected": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0"
+            },
+            "kind": "File",
+            "path": "Metotlar\\Metotlar.csproj",
+            "snippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "protectedSnippet": "Current target framework: .NETFramework,Version=v4.7.2\nRecommended target framework: net10.0",
+            "properties": {
+              "CurrentTargetFramework": ".NETFramework,Version=v4.7.2",
+              "RecommendedTargetFramework": "net10.0"
+            }
+          }
+        }
+      ],
+      "features": []
+    }
+  ],
+  "rules": {
+    "Project.0001": {
+      "id": "Project.0001",
+      "isFeature": false,
+      "description": "Project file needs to be converted to SDK-style. Modern .NET framework projects require a change in the project file format and use SDK corresponding to project flavor and functionality.",
+      "label": "Project file needs to be converted to SDK-style",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Overview of porting from .NET Framework to .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227",
+          "isCustom": false
+        },
+        {
+          "title": ".NET project SDKs",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226",
+          "isCustom": false
+        }
+      ]
+    },
+    "Project.0002": {
+      "id": "Project.0002",
+      "isFeature": false,
+      "description": "Project\u0027s target framework(s) needs to be changed to the new target framework that you selected for this upgrade.\n\nDuring upgrade target framework will be adjusted to corresponding platform when applicable. In some cases project would result in multiple target frameworks after the upgrade if it was using features that now have their own platforms in modern .NET frameworks (windows, iOS, Android etc).",
+      "label": "Project\u0027s target framework(s) needs to be changed",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Overview of porting from .NET Framework to .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227",
+          "isCustom": false
+        },
+        {
+          "title": ".NET project SDKs",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226",
+          "isCustom": false
+        }
+      ]
+    }
+  }
+}
