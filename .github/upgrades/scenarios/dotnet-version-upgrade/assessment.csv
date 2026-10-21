@@ -1,0 +1,13 @@
+Issue ID,Description,State,Severity,Story Points,Project Path,Location Kind,Path,Line,Column,Incident ID,Help Link,Assembly Name,Assembly Version,Assembly Public Key,Snippet
+Project.0001,Project file needs to be converted to SDK-style,Active,Mandatory,1,ClassIntro\ClassIntro.csproj,File,ClassIntro\ClassIntro.csproj,,,,,,,,
+Project.0002,Project's target framework(s) needs to be changed,Active,Mandatory,1,ClassIntro\ClassIntro.csproj,File,ClassIntro\ClassIntro.csproj,,,,,,,,"Current target framework: .NETFramework,Version=v4.7.2 Recommended target framework: net10.0"
+Project.0001,Project file needs to be converted to SDK-style,Active,Mandatory,1,DegerVeReferansTiplerr\DegerVeReferansTiplerr.csproj,File,DegerVeReferansTiplerr\DegerVeReferansTiplerr.csproj,,,,,,,,
+Project.0002,Project's target framework(s) needs to be changed,Active,Mandatory,1,DegerVeReferansTiplerr\DegerVeReferansTiplerr.csproj,File,DegerVeReferansTiplerr\DegerVeReferansTiplerr.csproj,,,,,,,,"Current target framework: .NETFramework,Version=v4.7.2 Recommended target framework: net10.0"
+Project.0001,Project file needs to be converted to SDK-style,Active,Mandatory,1,Donguler\Donguler.csproj,File,Donguler\Donguler.csproj,,,,,,,,
+Project.0002,Project's target framework(s) needs to be changed,Active,Mandatory,1,Donguler\Donguler.csproj,File,Donguler\Donguler.csproj,,,,,,,,"Current target framework: .NETFramework,Version=v4.7.2 Recommended target framework: net10.0"
+Project.0001,Project file needs to be converted to SDK-style,Active,Mandatory,1,IlkDeneme\Karsılatırmalar.csproj,File,IlkDeneme\Karsılatırmalar.csproj,,,,,,,,
+Project.0002,Project's target framework(s) needs to be changed,Active,Mandatory,1,IlkDeneme\Karsılatırmalar.csproj,File,IlkDeneme\Karsılatırmalar.csproj,,,,,,,,"Current target framework: .NETFramework,Version=v4.7.2 Recommended target framework: net10.0"
+Project.0001,Project file needs to be converted to SDK-style,Active,Mandatory,1,Matematik\Matematik.csproj,File,Matematik\Matematik.csproj,,,,,,,,
+Project.0002,Project's target framework(s) needs to be changed,Active,Mandatory,1,Matematik\Matematik.csproj,File,Matematik\Matematik.csproj,,,,,,,,"Current target framework: .NETFramework,Version=v4.7.2 Recommended target framework: net10.0"
+Project.0001,Project file needs to be converted to SDK-style,Active,Mandatory,1,Metotlar\Metotlar.csproj,File,Metotlar\Metotlar.csproj,,,,,,,,
+Project.0002,Project's target framework(s) needs to be changed,Active,Mandatory,1,Metotlar\Metotlar.csproj,File,Metotlar\Metotlar.csproj,,,,,,,,"Current target framework: .NETFramework,Version=v4.7.2 Recommended target framework: net10.0"

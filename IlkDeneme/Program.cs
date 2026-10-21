@@ -10,8 +10,6 @@ namespace Karsılastırmalar
         {
 
             string KatagoriEtiketi = "Katagori"; //"alias"
-            int OgrenciSayisi = 32000;
-            double FaizOrani = 1.45;
             bool SistemGirdiMi = false;
             double DolarDun = 40;
             double DolarBugun = 41;
