@@ -20,6 +20,15 @@ namespace GenericsIntro
                 items[i] = tempArray[i];
             }
             items[items.Length - 1] = item;// son elemanı parametre olarak gelen item ile dolduruyoruz.
+
+        }
+        public int Length
+        {
+            get { return items.Length; }
+        }
+        public T[] Items
+        {
+            get { return items; }
         }
     }
 }
